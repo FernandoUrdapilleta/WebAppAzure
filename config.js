@@ -1,7 +1,7 @@
 
 exports.creds = {
   // Required
-  identityMetadata: 'https://login.microsoftonline.com/YOUR_TENANT_GUID/.well-known/openid-configuration', 
+  identityMetadata: 'https://login.microsoftonline.com/dac02d7a-aedb-4c65-8318-d9c3a4d8a81c/.well-known/openid-configuration', 
   // or equivalently: 'https://login.microsoftonline.com/<tenant_guid>/.well-known/openid-configuration'
   //
   // or you can use the common endpoint
